@@ -49,7 +49,7 @@ VYNO is built on a high-throughput, edge-compatible technology stack to handle c
 Ensure you have the following installed on your local system:
 * **Node.js** `v18.0.0` or higher
 * **npm** or **pnpm** package manager
-* **Google Gemini API Key** (from [Google AI Studio](https://aistudio.google.com/))
+
 
 ---
 
@@ -93,7 +93,7 @@ npx vercel
 
 # Deploy to Production
 npx vercel --prod
-Note: Ensure GEMINI_API_KEY is added to your Vercel Project Settings > Environment Variables.
+Note: Ensure _API_KEY is added to your Vercel Project Settings > Environment Variables.
 
 🌌 Powered by Vanhsya Group
 Building the Next Era of AI, Web3, and Enterprise Innovation.
