@@ -1,0 +1,8 @@
+{
+  "name": "VANHSYA - Ultimate Interactive Universe",
+  "description": "An immersive, audio-reactive 3D universe built with React, Three.js, and Tailwind CSS. Interact with cosmic robots, control visual effects, and experience different emotional modes in a stunning sci-fi environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
